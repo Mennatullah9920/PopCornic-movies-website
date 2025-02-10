@@ -6,10 +6,8 @@ header {
   position: relative;
   z-index: 999;
 }
-.logo img {
-  width: 150px;
-  margin-top: 20px;
-  margin-right: 30px;
+.logo h2 {
+  color: #d4b207;
 }
 header a {
   color: #fff;
@@ -45,7 +43,7 @@ header button {
     position: absolute;
     top: 0;
     left: 0;
-    background-color: #e50813;
+    background-color: #d4b207;
     width: 50%;
     height: 100vh;
     z-index: 9999;

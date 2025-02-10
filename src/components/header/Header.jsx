@@ -9,7 +9,7 @@ const Header = () => {
         <div className='container flexSB'>
           <nav className='flexSB'>
             <div className='logo'>
-              <img src='./images/logo.png' alt='' />
+              <h2>PopCornic</h2>
             </div>
             {/*<ul className='flexSB'>*/}
             <ul className={Mobile ? "navMenu-list" : "flexSB"} onClick={() => setMobile(false)}>

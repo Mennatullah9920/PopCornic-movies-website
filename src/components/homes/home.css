@@ -50,7 +50,7 @@
   margin: 30px 0;
 }
 .rating i {
-  color: #e50813;
+  color: #d4b207;
   margin-right: 5px;
 }
 .rating label {
@@ -71,7 +71,7 @@
   font-size: 17px;
 }
 .cast h4 span {
-  color: #e50813;
+  color: #d4b207;
 }
 .palyButton {
   display: flex;
@@ -80,6 +80,7 @@
 }
 .palyButton .img {
   position: relative;
+  filter: hue-rotate(70deg);
 }
 .change {
   position: absolute;
